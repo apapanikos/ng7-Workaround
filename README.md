@@ -24,4 +24,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## Description
 
-Testing Angular 7 features and building simple components based on crash course of Gary Simone: https://www.youtube.com/watch?v=5wtnKulcquA&list=PLWFuf1_teCmIiOOO4L01YBbF1Ili5spd3&index=9&t=0s
+Testing Angular 7 features and building simple components (ReaciveForms, Services, HttpClient) based on crash course of Gary Simone: https://www.youtube.com/watch?v=5wtnKulcquA&list=PLWFuf1_teCmIiOOO4L01YBbF1Ili5spd3&index=9&t=0s
